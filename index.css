@@ -1,0 +1,58 @@
+html, body {
+    margin:0;
+    height:100vh;
+}
+.cyan {
+    background-color: cyan;
+}
+.white{
+    color: white;
+}
+h1{
+    margin: 0;
+    font-size: 32px;
+    color: white;
+}
+
+
+header {
+    background-color: #7451EB;
+}
+section {
+    display: flex;
+    flex-direction: row;
+    height:50vh;
+}
+header > section {
+    height:25vh;
+    position:relative;
+}
+footer > section {
+    display:block;
+    height:25vh;
+}
+section > aside > img {
+    max-width: 80%;
+    max-height: 90%;
+}
+#img-profil{
+    position: absolute;
+    bottom: 0;
+}
+.pres{
+    width:70%;
+    margin: 10px 20px 10px 50px;
+    height: 30vh;
+}
+.aside-pres{
+    width:30%;
+}
+
+
+footer {
+    background-color: #003668;
+}
+
+.res-logo{
+    max-height: 80px;
+}
