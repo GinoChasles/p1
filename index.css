@@ -39,12 +39,12 @@ header > article > h2,p {
     font-size: 2vmax;
 }
 #pres {
-    width: 50vw;
+    width: 45vw;
     margin: 50px 50px 30px 80px;
 }
 #aside-pres {
     position: relative;
-    width: 45vw;
+    width: 40vw;
 }
 #img-profil {
     width:60%;
