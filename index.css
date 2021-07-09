@@ -69,6 +69,7 @@ section > article > p,ul {
 footer {
     background-color: #003668;
     padding: 60px;
+    width: 100vw;
 }
 
 .res-logo {
