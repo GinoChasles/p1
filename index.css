@@ -47,7 +47,7 @@ header > article > h2,p {
     width: 45vw;
 }
 #img-profil {
-    height:60%;
+    width:60%;
     object-fit: contain;
 }
 /* ******************************************** */
