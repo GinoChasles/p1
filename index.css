@@ -68,10 +68,11 @@ section {
     padding: 50px;
 }
 section > article > h2{
+    margin-bottom: 20px;
     font-size:2vmax;
 }
 section > article > p,ul {
-    font-size: 1.5vmax;
+    font-size: 1vmax;
 }
 /* ******************************************** */
 
@@ -91,12 +92,12 @@ footer {
     margin-right: 40px;
 }
 
-footer > p {
+footer > div > p {
     margin-top:0;
     margin-bottom: 50px;
     font-size: 2vmax;
 }
-footer > h2 {
+footer > div > h2 {
     margin-bottom: 0;
     font-size: 2vmax;
 }
