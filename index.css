@@ -21,6 +21,7 @@ h1{
 header {
     background-color: #7451EB;
     display:flex;
+    width:100vw;
 }
 header > article > h2,p {
     margin-top:0;
@@ -48,6 +49,7 @@ header > article > h2,p {
 section {
     display: flex;
     align-items: center;
+    width:100vw;
 }
 #aside-comp {
     width: 30vw;
