@@ -20,7 +20,7 @@ html, body {
 }
 h1{
     margin: 0;
-    font-size: 3vmax;
+    font-size: 2em;
     color: white;
 }
 /* ******************************************** */
@@ -36,7 +36,7 @@ header {
 header > article > h2,p {
     margin-top:0;
     margin-bottom: 50px;
-    font-size: 2vmax;
+    font-size: 1.5em;
 }
 #pres {
     width: 45vw;
@@ -67,10 +67,10 @@ section {
 }
 section > article > h2{
     margin-bottom: 20px;
-    font-size:2vmax;
+    font-size:1.5em;
 }
 section > article > p,ul {
-    font-size: 1vmax;
+    font-size: 1.5em;
 }
 /* ******************************************** */
 
@@ -93,11 +93,12 @@ footer {
 footer > div > p {
     margin-top:0;
     margin-bottom: 50px;
-    font-size: 2vmax;
+    font-size: 1.5em;
 }
 footer > div > h2 {
     margin-bottom: 0;
-    font-size: 3vmax;
+    font-size: 2em;
 }
 
 /* ******************************************** */
+
